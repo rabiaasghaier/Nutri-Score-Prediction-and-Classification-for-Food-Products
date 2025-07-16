@@ -11,7 +11,7 @@ This project focused on developing a data-driven system to classify food product
 To create a robust classification model, the following steps were taken:
 
 Data Collection:
-Nutritional data was sourced from Open Food Facts, a free and open database of food products from around the world. Thousands of product entries were collected across multiple categories (snacks, beverages, meals, etc.).
+Nutritional data was sourced from Open Food Facts ( https://fr.openfoodfacts.org/ ) , a free and open database of food products from around the world. Thousands of product entries were collected across multiple categories (snacks, beverages, meals, etc.).
 
 Data Preprocessing:
 
